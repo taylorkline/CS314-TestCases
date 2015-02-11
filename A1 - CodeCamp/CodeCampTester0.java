@@ -25,8 +25,8 @@ public class CodeCampTester0{
       System.out.println(" ***** FAILED ***** test 1, hamming distance");
     
     // test 2, hamming distance
-    h1 = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-    h2 = new int[] {-6, -6, -6, -6, -6, -6, -6, -6, -6, -6};
+    h1 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    h2 = new int[]{-6, -6, -6, -6, -6, -6, -6, -6, -6, -6};
     expected = 10;
     actual = CodeCamp.hammingDistance(h1, h2);
     System.out.println(newline + "Test 2 hamming distance: expected value: " 
@@ -371,7 +371,8 @@ public class CodeCampTester0{
       System.out.println(" ***** FAILED ***** test 30, queensAreSafe");
     
     //test 31, queensAreASafe
-    board = new char[][]{{'.', '.', '.', 'q'},
+    board = new char[][]{
+      {'.', '.', '.', 'q'},
       {'.', '.', '.', '.'},
       {'.', '.', '.', '.'},
       {'q', '.', '.', '.'}};
@@ -386,7 +387,8 @@ public class CodeCampTester0{
     
     
     //test 32, queensAreASafe
-    board = new char[][] {{'q', '.', '.', '.', '.', '.', '.'},
+    board = new char[][] {
+      {'q', '.', '.', '.', '.', '.', '.'},
       {'.', '.', '.', '.', 'q', '.', '.'},
       {'.', 'q', '.', '.', '.', '.', '.'},
       {'.', '.', '.', '.', '.', 'q', '.'},
@@ -403,7 +405,8 @@ public class CodeCampTester0{
       System.out.println(" ***** FAILED ***** test 32, queensAreSafe");
     
     //test 33, queensAreASafe
-    board = new char[][] {{'q', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
+    board = new char[][] {
+      {'q', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
       {'.', '.', '.', '.', 'q', '.', '.', '.', '.', '.'},
       {'.', 'q', '.', '.', '.', '.', '.', '.', '.', '.'},
       {'.', '.', '.', '.', '.', 'q', '.', '.', '.', '.'},
