@@ -2,6 +2,7 @@
  * A class to run tests on the MathMatrix class
  * @author Joshua Guenther
  * Github Account: Yosh17
+ * Note: requires methods and/or imports not in the default Tester class
  */
 public class MathMatrixTester1{
   /**
