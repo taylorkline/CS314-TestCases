@@ -11,7 +11,7 @@ See <a href="http://www.cs.utexas.edu/~scottm/cs314/Assignments/index.htm">Mike 
 Assignment 3 - The Name Surfer</br>
 "For this assignment you may not share your tests, but you can share your results when using different data files such as names2.txt." - Mike
 
-For comparing result, I would recommend a  tool to compare text, such as <a href="https://www.diffchecker.com/">Diff Checker>
+For comparing result, I would recommend a  tool to compare text, such as <a href="https://www.diffchecker.com/">Diff Checker</a>
 
 Assignment 2 - Math Matrix</br>
 "I encourage you to share you tests with others..." - Mike
