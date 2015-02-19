@@ -1,5 +1,5 @@
 /*
- *@author Joshua Guenther,
+ *@author Joshua Guenther,  Efthimios Timmy Gianitsos
  * Removed description of option 7 and did not run it!
  * Tests are run in the following order (excluded quotation marks):
  * Menu choice 1, input: "steven"
