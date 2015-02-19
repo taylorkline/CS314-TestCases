@@ -1,0 +1,2332 @@
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: sam
+
+There are 10 matches for sam.
+
+The matches with their highest ranking decade are:
+Isamar 1990
+Rosamond 1910
+Sam 1900
+Samantha 1990
+Samara 2000
+Samir 2000
+Sammie 1930
+Sammy 1940
+Samson 2000
+Samuel 2000
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: same
+
+There are 0 matches for same.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: ISA
+
+There are 27 matches for ISA.
+
+The matches with their highest ranking decade are:
+Alisa 1960
+Brisa 2000
+Carisa 1970
+Delisa 1960
+Elisa 1970
+Elisabeth 1980
+Eloisa 1920
+Isaac 2000
+Isabel 2000
+Isabela 2000
+Isabell 1910
+Isabella 2000
+Isabelle 2000
+Isadore 1900
+Isai 1990
+Isaiah 2000
+Isaias 2000
+Isamar 1990
+Jalisa 1990
+Leisa 1960
+Lisa 1960
+Louisa 1900
+Luisa 1930
+Marisa 1990
+Melisa 1970
+Mellisa 1970
+Misael 2000
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: oliv
+
+There are 3 matches for oliv.
+
+The matches with their highest ranking decade are:
+Olive 1900
+Oliver 1910
+Olivia 2000
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: oliv5
+
+There are 0 matches for oliv5.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: Isa
+
+There are 27 matches for Isa.
+
+The matches with their highest ranking decade are:
+Alisa 1960
+Brisa 2000
+Carisa 1970
+Delisa 1960
+Elisa 1970
+Elisabeth 1980
+Eloisa 1920
+Isaac 2000
+Isabel 2000
+Isabela 2000
+Isabell 1910
+Isabella 2000
+Isabelle 2000
+Isadore 1900
+Isai 1990
+Isaiah 2000
+Isaias 2000
+Isamar 1990
+Jalisa 1990
+Leisa 1960
+Lisa 1960
+Louisa 1900
+Luisa 1930
+Marisa 1990
+Melisa 1970
+Mellisa 1970
+Misael 2000
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: jak
+
+There are 3 matches for jak.
+
+The matches with their highest ranking decade are:
+Jakayla 2000
+Jake 2000
+Jakob 2000
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Jake
+
+Jake
+1900: 262
+1910: 312
+1920: 323
+1930: 479
+1940: 484
+1950: 630
+1960: 751
+1970: 453
+1980: 225
+1990: 117
+2000: 97
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Isabelle
+
+Isabelle
+1900: 193
+1910: 192
+1920: 259
+1930: 426
+1940: 619
+1950: 987
+1960: 0
+1970: 0
+1980: 0
+1990: 440
+2000: 144
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: isabelle
+
+Isabelle
+1900: 193
+1910: 192
+1920: 259
+1930: 426
+1940: 619
+1950: 987
+1960: 0
+1970: 0
+1980: 0
+1990: 440
+2000: 144
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: isabellers
+
+isabellers does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: isabella
+
+Isabella
+1900: 312
+1910: 382
+1920: 477
+1930: 702
+1940: 0
+1950: 0
+1960: 0
+1970: 0
+1980: 0
+1990: 202
+2000: 45
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Olivia
+
+Olivia
+1900: 315
+1910: 311
+1920: 290
+1930: 307
+1940: 270
+1950: 355
+1960: 504
+1970: 324
+1980: 193
+1990: 47
+2000: 16
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Kelly
+
+Kelly
+1900: 549
+1910: 571
+1920: 598
+1930: 507
+1940: 413
+1950: 209
+1960: 31
+1970: 14
+1980: 29
+1990: 55
+2000: 113
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: kell
+
+kell does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: kel
+
+kel does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: kel
+
+There are 16 matches for kel.
+
+The matches with their highest ranking decade are:
+Haskell 1900
+Jackeline 2000
+Kelby 1990
+Kelcie 1990
+Kellen 1980
+Kelley 1970
+Kelli 1970
+Kellie 1970
+Kelly 1970
+Kelsea 1990
+Kelsey 1990
+Kelsi 1990
+Kelsie 1990
+Kelton 2000
+Kelvin 1960
+Mikel 1950
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Neo
+
+Neo does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Trinity
+
+Trinity
+1900: 0
+1910: 0
+1920: 0
+1930: 0
+1940: 0
+1950: 0
+1960: 0
+1970: 976
+1980: 0
+1990: 778
+2000: 74
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Rock
+
+Rock
+1900: 0
+1910: 0
+1920: 0
+1930: 0
+1940: 0
+1950: 781
+1960: 0
+1970: 0
+1980: 0
+1990: 0
+2000: 0
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Great
+
+Great does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: great
+
+There are 0 matches for great.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Ike
+
+Ike
+1900: 596
+1910: 551
+1920: 727
+1930: 0
+1940: 980
+1950: 852
+1960: 0
+1970: 0
+1980: 0
+1990: 0
+2000: 0
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Dwight
+
+Dwight
+1900: 270
+1910: 300
+1920: 294
+1930: 255
+1940: 173
+1950: 152
+1960: 219
+1970: 300
+1980: 388
+1990: 538
+2000: 783
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 3
+879 names appear in exactly one decade. The names are: 
+Abagail
+Abdul
+Abigale
+Abigayle
+Abril
+<ACTUALY OUTPUT TRIMMED. SEE END OF OUTPUT FOR COMPLETE OUTPUT>
+Zoie
+Zoila
+Zulma
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 4
+554 names appear in every decade. The names are: 
+Aaron
+Abel
+Abraham
+<ACTUALY OUTPUT TRIMMED. SEE END OF OUTPUT FOR COMPLETE OUTPUT>
+Winston
+Yolanda
+Yvonne
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 5
+2 names are more popular in every decade. 
+Eduardo
+Luis
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Luis
+
+Luis
+1900: 245
+1910: 203
+1920: 154
+1930: 118
+1940: 111
+1950: 108
+1960: 94
+1970: 68
+1980: 60
+1990: 46
+2000: 45
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 6
+27 names are less popular in every decade. 
+Albert
+Alice
+Alma
+Arthur
+Ben
+Carl
+Cecil
+Clarence
+Claude
+Clyde
+Ernest
+Eunice
+Everett
+Frank
+Gladys
+Harry
+Harvey
+Herman
+Hugh
+Irma
+Lester
+Louis
+Marie
+Morris
+Otis
+Rosa
+Theodore
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Louis
+
+Louis
+1900: 21
+1910: 22
+1920: 30
+1930: 43
+1940: 55
+1950: 80
+1960: 108
+1970: 143
+1980: 161
+1990: 217
+2000: 275
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: Luiz
+
+There are 0 matches for Luiz.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: Luis
+
+There are 2 matches for Luis.
+
+The matches with their highest ranking decade are:
+Luis 2000
+Luisa 1930
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: Luis
+
+Luis
+1900: 245
+1910: 203
+1920: 154
+1930: 118
+1940: 111
+1950: 108
+1960: 94
+1970: 68
+1980: 60
+1990: 46
+2000: 45
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: frank
+
+Frank
+1900: 8
+1910: 9
+1920: 12
+1930: 16
+1940: 21
+1950: 34
+1960: 44
+1970: 65
+1980: 91
+1990: 152
+2000: 209
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: mildred
+
+Mildred
+1900: 9
+1910: 6
+1920: 9
+1930: 35
+1940: 94
+1950: 168
+1960: 289
+1970: 526
+1980: 996
+1990: 0
+2000: 0
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: david
+
+David
+1900: 29
+1910: 30
+1920: 22
+1930: 11
+1940: 6
+1950: 5
+1960: 2
+1970: 4
+1980: 5
+1990: 11
+2000: 16
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to all names that appear in only one decade.
+Enter 4 to all names that appear in all decades.
+Enter 5 to all names that are more popular in every decade.
+Enter 6 to all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 8
+
+
+Goodbye.
+
+
+**********************************
+
+Actual output of names that appear in exaclty one decade:
+
+Enter choice: 3
+879 names appear in exactly one decade. The names are: 
+Abagail
+Abdul
+Abigale
+Abigayle
+Abril
+Adelard
+Aden
+Adriel
+Afton
+Agustina
+Aiyana
+Alanis
+Aleen
+Alek
+Alesia
+Alessandro
+Alexys
+Alexzander
+Alf
+Alia
+Alivia
+Aliya
+Aliza
+Alize
+Alline
+Ally
+Allyn
+Almeta
+Almira
+Alonza
+Altagracia
+Alvah
+Alyse
+Amado
+Amador
+Amara
+Amari
+Amaya
+Amina
+Amira
+Amiya
+Amya
+Anabel
+Anahi
+Anais
+Anaya
+Andra
+Anitra
+Aniya
+Aniyah
+Anjali
+Anjanette
+Anjelica
+Annalise
+Anselmo
+Ansley
+Antionette
+Antonietta
+Aracely
+Arcadio
+Arely
+Aria
+Arlan
+Arlis
+Armond
+Arno
+Arnoldo
+Arrie
+Arvin
+Aryanna
+Ashanti
+Asher
+Ashtyn
+Assunta
+Audry
+Aurore
+Ayden
+Aylin
+Barron
+Bartholome
+Belen
+Bernhard
+Berton
+Bettina
+Beverlee
+Bishop
+Blaise
+Blaze
+Blossom
+Bobbye
+Braeden
+Braedon
+Brandee
+Branson
+Braydon
+Brea
+Bree
+Brennon
+Bridie
+Brien
+Brionna
+Brisa
+Brittny
+Brodie
+Brooklynn
+Brown
+Brycen
+Brynn
+Buddie
+Buffy
+Burnell
+Burnice
+Caitlynn
+Caleigh
+Cali
+Calista
+Camila
+Camren
+Camryn
+Candelario
+Candis
+Carie
+Carisa
+Carma
+Carnell
+Carolann
+Carolynn
+Caron
+Carri
+Casie
+Caterina
+Cathey
+Cathi
+Catina
+Cayden
+Ceil
+Chadrick
+Chana
+Chantelle
+Charissa
+Charisse
+Charolette
+Chelsi
+Cherise
+Cherish
+Cherri
+Chesley
+China
+Chrissy
+Christeen
+Christel
+Christop
+Chyna
+Cicero
+Cielo
+Citlalli
+Clarabelle
+Claribel
+Clarine
+Clementina
+Clemmie
+Cleon
+Clotilde
+Codey
+Codie
+Collette
+Cordia
+Corliss
+Creola
+Crissy
+Cristin
+Cydney
+Cyndi
+Dagmar
+Dagny
+Daija
+Daisha
+Dakotah
+Dalia
+Danica
+Danyelle
+Dariana
+Darrian
+Darrien
+Daryle
+Dasia
+Davie
+Davina
+Davy
+Dawna
+Dax
+Dayana
+Dayne
+Deasia
+Debbi
+Debbra
+Debrah
+Declan
+Dedra
+Dedric
+Dedrick
+Deedee
+Dejah
+Delisa
+Delpha
+Demetris
+Demi
+Demond
+Deneen
+Denisse
+Deontae
+Dequan
+Destany
+Devonta
+Devontae
+Dillion
+Dimple
+Dionisio
+Dionte
+Dominik
+Dominque
+Donavon
+Donta
+Dorathy
+Dorine
+Dorman
+Draven
+Drucilla
+Durwood
+Dwane
+Earlie
+Easton
+Ebba
+Edie
+Edrie
+Edyth
+Elayne
+Electa
+Elenor
+Elgin
+Elian
+Eliot
+Ellamae
+Else
+Elta
+Elvia
+Elvie
+Emely
+Emiliano
+Emmalee
+Emmy
+Ennis
+Enrico
+Enriqueta
+Ephraim
+Erasmo
+Eris
+Erlene
+Erlinda
+Erling
+Eryn
+Estrella
+Ethelene
+Ettie
+Eudora
+Eura
+Evon
+Evonne
+Ewald
+Ezell
+Fairy
+Fallon
+Farrah
+Felicity
+Felisha
+Fermin
+Fernand
+Fernanda
+Finley
+Finn
+Fleta
+Flo
+Florrie
+Fonda
+Fortunato
+Foy
+Franchesca
+Francheska
+Franz
+Fredy
+Frida
+Friedrich
+Gaige
+Gardner
+Gaven
+Geary
+Gennaro
+Georgine
+Geraldo
+Gia
+Gianni
+Gideon
+Gigi
+Gisselle
+Gladyce
+Glennie
+Glinda
+Glynda
+Glynis
+Greyson
+Gudrun
+Guiseppe
+Hadley
+Hailie
+Hakeem
+Hali
+Hamza
+Hana
+Hansel
+Harding
+Harlen
+Harlene
+Hassie
+Haven
+Heber
+Helga
+Helmer
+Henriette
+Herb
+Herta
+Hezekiah
+Hildur
+Hilliard
+Hortencia
+Hortensia
+Hurley
+Huston
+Icie
+Ingeborg
+Isabela
+Isamar
+Ishmael
+Isis
+Ivah
+Ivana
+Ivey
+Izabella
+Izaiah
+Izetta
+Izora
+Jacalyn
+Jacey
+Jadon
+Jadyn
+Jaeden
+Jaelyn
+Jaida
+Jaiden
+Jailyn
+Jakayla
+Jalisa
+Jalon
+Jalyn
+Jamari
+Jamir
+Jammie
+Janay
+Janeen
+Janiya
+Jann
+Jaquelin
+Jaren
+Jarrell
+Jarret
+Jasmyn
+Javion
+Jaxon
+Jaxson
+Jayce
+Jaycee
+Jayda
+Jayde
+Jaydon
+Jaylan
+Jazlyn
+Jazmyne
+Jedediah
+Jenelle
+Jensen
+Jerel
+Jerline
+Jermain
+Jermey
+Jesica
+Jessenia
+Jessy
+Jett
+Joanie
+Joetta
+Johan
+Johann
+Johathan
+Johnpaul
+Jolie
+Jomar
+Jonatan
+Jonna
+Jordy
+Joretta
+Joshuah
+Jovani
+Jovanny
+Jovita
+Judah
+Judd
+Judie
+Justo
+Juston
+Juwan
+Kacy
+Kadeem
+Kadin
+Kaelyn
+Kaia
+Kaiden
+Kale
+Kalen
+Kalie
+Kalvin
+Kamren
+Kamron
+Kamryn
+Kandace
+Kandi
+Kandice
+Karan
+Karie
+Karlene
+Karolyn
+Karren
+Karri
+Karson
+Kathaleen
+Katharina
+Kati
+Katia
+Katina
+Katlin
+Kavon
+Kaya
+Kayden
+Kaylah
+Kaylan
+Keagan
+Keara
+Kecia
+Keeley
+Keesha
+Kegan
+Keira
+Keishla
+Kelby
+Kelcie
+Kelsea
+Kenna
+Kennedi
+Kenney
+Kennth
+Kenyatta
+Kenzie
+Kerwin
+Kesha
+Keshaun
+Keshawn
+Keshia
+Keyon
+Keyshawn
+Khadijah
+Kian
+Kiarra
+Kiel
+Kimberli
+Kinsey
+Kirstie
+Kittie
+Kizzy
+Korbin
+Kortney
+Kristan
+Krystle
+Kwame
+Kyleigh
+Laci
+Laddie
+Laila
+Laisha
+Landen
+Lanette
+Laney
+Lannie
+Laraine
+Lars
+Latonia
+Latrell
+Latricia
+Laurette
+Laurine
+Leamon
+Leandra
+Leda
+Leisa
+Lelah
+Lempi
+Lesia
+Lesli
+Levar
+Lew
+Libbie
+Lilliam
+Lilliana
+Lilyan
+Linette
+Linsey
+Lise
+Lisha
+Lissa
+Litzy
+Lizabeth
+Loma
+London
+Lonie
+Lonna
+Lorelei
+Lorenz
+Loriann
+Lu
+Luana
+Luca
+Lucero
+Lucienne
+Lucila
+Luetta
+Luna
+Lyndsay
+Lynsey
+Lyric
+Machelle
+Maci
+Madelynn
+Madilyn
+Madisen
+Madisyn
+Madyson
+Maeve
+Mafalda
+Magnus
+Maia
+Maida
+Maiya
+Malissa
+Mallie
+Malvina
+Mammie
+Marcial
+Margit
+Margy
+Marilou
+Marlen
+Marley
+Marquita
+Maryam
+Marybelle
+Mathias
+Mathilde
+Matteo
+Maury
+Maverick
+Maxim
+Maximillia
+Maximillian
+Maximus
+Maye
+Maymie
+Mcarthur
+Mearl
+Meda
+Meg
+Meghann
+Mekhi
+Melany
+Mellisa
+Melonie
+Meranda
+Merilyn
+Mertie
+Mervyn
+Meryl
+Michelina
+Mickie
+Mikala
+Mindi
+Missouri
+Moe
+Moira
+Monserrat
+Montgomery
+Mossie
+Mozella
+Mustafa
+Myah
+Myranda
+Myrl
+Najee
+Nancie
+Nash
+Nasir
+Nathen
+Natosha
+Neftali
+Neha
+Nehemiah
+Nichol
+Nicholaus
+Nicki
+Nicklaus
+Nicolle
+Niki
+Niko
+Niles
+Nils
+Norah
+Nunzio
+Nya
+Nyah
+Nyasia
+Oakley
+Oda
+Odalys
+Okey
+Olene
+Omayra
+Onie
+Orvil
+Osborne
+Ottie
+Ottilie
+Parrish
+Patience
+Pauletta
+Paxton
+Penni
+Pernell
+Pershing
+Phillis
+Phoenix
+Pietro
+Pilar
+Pink
+Piper
+Presley
+Price
+Primitivo
+Pura
+Raegan
+Raekwon
+Rahsaan
+Rahul
+Ramsey
+Rand
+Randle
+Ransom
+Raoul
+Raynard
+Rayshawn
+Reanna
+Refugio
+Reginal
+Reilly
+Reino
+Renata
+Renea
+Ressie
+Retta
+Rheta
+Rhianna
+Ricki
+Ridge
+Rock
+Roel
+Rohan
+Rolanda
+Rolf
+Rolla
+Ronaldo
+Roni
+Rosalina
+Rosaline
+Rosann
+Rosaura
+Roseanna
+Rossie
+Roswell
+Rowan
+Ryann
+Rylan
+Ryleigh
+Ryley
+Rylie
+Sabastian
+Sadye
+Saige
+Salma
+Salome
+Samara
+Samson
+Santana
+Savana
+Savion
+Seamus
+Sedrick
+Serenity
+Shad
+Shamar
+Shameka
+Shamika
+Shani
+Shanice
+Shaniqua
+Shanita
+Shaniya
+Shannan
+Shanon
+Shante
+Shantell
+Shaquille
+Shasta
+Shawanda
+Shay
+Shaylee
+Shelba
+Shelbi
+Shelbie
+Shelva
+Shemar
+Sheridan
+Sherita
+Sheron
+Sherron
+Sherwin
+Shiela
+Shonna
+Shyann
+Sid
+Sienna
+Signe
+Sigrid
+Sigurd
+Sim
+Sincere
+Siobhan
+Sister
+Sixto
+Skyla
+Soledad
+Spenser
+Spring
+Starla
+Stasia
+Stefani
+Stephani
+Stephania
+Stephenie
+Stetson
+Stevan
+Stoney
+Storm
+Stormy
+Sumner
+Sunshine
+Susann
+Suzann
+Suzy
+Sven
+Sydni
+Tamala
+Tamatha
+Tamia
+Tamie
+Tamiko
+Tanesha
+Tangela
+Tarah
+Tarsha
+Tatianna
+Taurean
+Tavares
+Tavon
+Tawana
+Tawanda
+Tawanna
+Tawny
+Tawnya
+Taya
+Teagan
+Telly
+Tenisha
+Tennie
+Tennille
+Teresita
+Theola
+Theresia
+Tiera
+Tito
+Tobin
+Tomeka
+Tomika
+Torey
+Torrance
+Toy
+Toya
+Trae
+Tremaine
+Tresa
+Trevion
+Trystan
+Tyesha
+Tyquan
+Tyreek
+Tyrek
+Tyrel
+Tyrese
+Tyrique
+Unique
+Uriah
+Vanesa
+Vella
+Vergil
+Versie
+Vicenta
+Vidal
+Vinson
+Virgilio
+Vivienne
+Waino
+Waldemar
+Waleska
+Waneta
+Wanita
+Washington
+Wava
+Wellington
+Welton
+Wes
+Wheeler
+Whitley
+Wilfrid
+Wilhelm
+Wilhelmine
+Willow
+Willy
+Windell
+Windy
+Xander
+Xzavier
+Yajaira
+Yamilet
+Yanira
+Yoshiko
+Zaire
+Zander
+Zaria
+Zetta
+Zigmund
+Zina
+Zion
+Zita
+Zoie
+Zoila
+Zulma
+
+Actual output of names that appear in every decade:
+
+Enter choice: 4
+554 names appear in every decade. The names are: 
+Aaron
+Abel
+Abraham
+Adam
+Adolfo
+Adrian
+Adrienne
+Agustin
+Aileen
+Alan
+Albert
+Alberto
+Alejandro
+Alex
+Alexander
+Alfonso
+Alfred
+Alfredo
+Alice
+Alicia
+Allan
+Allen
+Alma
+Alonzo
+Alvin
+Amanda
+Amelia
+Amy
+Ana
+Anderson
+Andrea
+Andres
+Andrew
+Andy
+Angel
+Angela
+Angelina
+Angelo
+Angie
+Anita
+Ann
+Anna
+Anne
+Annette
+Annie
+Anthony
+Antoinette
+Anton
+Antonia
+Antonio
+Arlene
+Armando
+Arnold
+Arthur
+Arturo
+Aubrey
+Audrey
+August
+Aurora
+Austin
+Ava
+Avery
+Barbara
+Beatrice
+Ben
+Benito
+Benjamin
+Bennett
+Benny
+Bernard
+Bernardo
+Billy
+Blaine
+Bonnie
+Bradley
+Bridget
+Brooks
+Bruce
+Bryan
+Bryant
+Byron
+Callie
+Calvin
+Camille
+Carl
+Carlo
+Carlos
+Carlton
+Carmen
+Carol
+Carolina
+Caroline
+Carolyn
+Carrie
+Carson
+Carter
+Catherine
+Cecelia
+Cecilia
+Celeste
+Celia
+Charles
+Charlie
+Charlotte
+Chris
+Christian
+Christina
+Christine
+Christopher
+Claire
+Clara
+Clarence
+Clark
+Claudia
+Clay
+Clayton
+Clifford
+Clifton
+Clinton
+Conrad
+Cora
+Corinne
+Cornelius
+Craig
+Cristina
+Cruz
+Crystal
+Curtis
+Cynthia
+Cyrus
+Daisy
+Dale
+Dallas
+Dan
+Dana
+Daniel
+Daphne
+Darrell
+Darwin
+David
+Davis
+Dean
+Deborah
+Dennis
+Denver
+Dexter
+Diana
+Dominic
+Dominick
+Don
+Donald
+Donna
+Donnie
+Donovan
+Dorothy
+Douglas
+Duane
+Duncan
+Dwight
+Earl
+Eddie
+Edgar
+Edith
+Eduardo
+Edward
+Edwin
+Eileen
+Elaine
+Eleanor
+Elena
+Eli
+Elias
+Elijah
+Elisa
+Elisabeth
+Elise
+Elizabeth
+Ella
+Ellen
+Elliott
+Ellis
+Elmer
+Elsa
+Elvin
+Emanuel
+Emilio
+Emily
+Emma
+Emmett
+Enrique
+Eric
+Ernest
+Ernesto
+Esteban
+Esther
+Eugene
+Eva
+Evan
+Evelyn
+Everett
+Ezra
+Faith
+Felicia
+Felipe
+Felix
+Fernando
+Fidel
+Forrest
+Frances
+Francis
+Francisco
+Frank
+Frankie
+Franklin
+Fred
+Freddie
+Frederick
+Fredrick
+Gabriel
+Garrett
+Gary
+Genevieve
+George
+Georgia
+Gerald
+Gerard
+Gerardo
+Gilbert
+Glen
+Glenn
+Gloria
+Gordon
+Grace
+Grady
+Graham
+Grant
+Gregory
+Gretchen
+Guadalupe
+Guillermo
+Guy
+Gwendolyn
+Hannah
+Harley
+Harold
+Harrison
+Harry
+Hector
+Helen
+Helena
+Henry
+Herbert
+Hope
+Howard
+Hugh
+Hugo
+Ignacio
+Irene
+Iris
+Irvin
+Irving
+Isaac
+Isabel
+Isaiah
+Israel
+Ivan
+Ivy
+Jack
+Jackson
+Jacob
+Jacqueline
+Jake
+James
+Jane
+Janet
+Janice
+Jason
+Jasper
+Jay
+Jean
+Jeanette
+Jeff
+Jefferson
+Jenny
+Jeremiah
+Jerome
+Jerry
+Jesse
+Jessie
+Jesus
+Jimmie
+Jimmy
+Joan
+Joanna
+Joaquin
+Joe
+Joel
+Johanna
+John
+Johnnie
+Johnny
+Jonathan
+Jose
+Joseph
+Josephine
+Joshua
+Josie
+Joy
+Joyce
+Juan
+Juanita
+Judith
+Julia
+Julian
+Juliana
+Julie
+Julio
+Julius
+Justin
+Justine
+Karl
+Kate
+Katharine
+Katherine
+Kathleen
+Kathryn
+Katie
+Keith
+Kelly
+Kenneth
+Kent
+Kurt
+Kyle
+Lamar
+Larry
+Laura
+Laurel
+Lawrence
+Leah
+Lee
+Leila
+Lena
+Leo
+Leon
+Leonard
+Leonardo
+Leroy
+Leslie
+Levi
+Lewis
+Lillian
+Lincoln
+Linda
+Lionel
+Lloyd
+Lonnie
+Loren
+Lorena
+Lorenzo
+Louis
+Lucia
+Lucy
+Luis
+Luke
+Luz
+Lydia
+Madeline
+Magdalena
+Maggie
+Malcolm
+Manuel
+Marcel
+Marcos
+Marcus
+Margaret
+Margarita
+Maria
+Marie
+Marina
+Mario
+Mark
+Marshall
+Martha
+Martin
+Martina
+Marvin
+Mary
+Mason
+Mathew
+Matthew
+Maurice
+Max
+Maxwell
+Melvin
+Mercedes
+Meredith
+Michael
+Miguel
+Mike
+Miles
+Milton
+Miriam
+Mitchell
+Mollie
+Molly
+Monica
+Morgan
+Moses
+Myra
+Myron
+Nadine
+Nancy
+Naomi
+Natalie
+Nathan
+Nathaniel
+Neal
+Neil
+Nelson
+Nicholas
+Nick
+Nicolas
+Nina
+Noah
+Noel
+Nolan
+Nora
+Norma
+Norman
+Oliver
+Olivia
+Orlando
+Oscar
+Owen
+Pablo
+Patricia
+Patrick
+Paul
+Paula
+Pedro
+Perry
+Peter
+Philip
+Phillip
+Pierre
+Preston
+Priscilla
+Quentin
+Rachel
+Rafael
+Ralph
+Ramon
+Randall
+Raphael
+Ray
+Raymond
+Rebecca
+Reed
+Regina
+Reginald
+Reid
+Rene
+Renee
+Reuben
+Ricardo
+Richard
+Riley
+Rita
+Robert
+Roberto
+Roderick
+Rodney
+Roger
+Roland
+Roman
+Ronald
+Rosa
+Rose
+Rosemary
+Ross
+Roy
+Royce
+Ruben
+Ruby
+Rudy
+Russell
+Ruth
+Sally
+Salvador
+Salvatore
+Sam
+Samuel
+Santiago
+Santos
+Sara
+Sarah
+Saul
+Scott
+Seth
+Shelby
+Sheldon
+Shirley
+Sidney
+Simon
+Solomon
+Sonia
+Sophia
+Spencer
+Stanley
+Stephanie
+Stephen
+Sterling
+Steve
+Steven
+Stuart
+Susan
+Sylvia
+Taylor
+Teresa
+Terry
+Thaddeus
+Theodore
+Theresa
+Thomas
+Timothy
+Tina
+Tomas
+Tommy
+Tony
+Travis
+Troy
+Ulysses
+Valerie
+Vaughn
+Vernon
+Veronica
+Vicente
+Victor
+Victoria
+Vincent
+Virginia
+Vivian
+Wade
+Walter
+Warren
+Wayne
+Wesley
+Will
+William
+Willie
+Wilson
+Winston
+Yolanda
+Yvonne
