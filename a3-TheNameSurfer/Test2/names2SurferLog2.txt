@@ -1,0 +1,302 @@
+/*
+ *@author Joshua Guenther,  Efthimios Timmy Gianitsos
+ * Removed description of option 7 and did not run it!
+ * Tests are run in the following order (excluded quotation marks):
+ * Menu choice 1, input: "steven"
+ * Menu choice 2, input: "ste"
+ * Menu choice 2, input: "banana"
+ * Menu choice 1, input: "ban"
+ * Menu choice 1, input: "tI"
+ * Menu choice 2, input: "tIm"
+ */
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: steven
+
+Steven
+1910: 313
+1920: 302
+1930: 257
+1940: 31
+1950: 11
+1960: 11
+1970: 19
+1980: 24
+1990: 34
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: ste
+
+There are 47 matches for ste.
+
+The matches with their highest ranking decade are:
+Buster 1910
+Celeste 1990
+Chester 1910
+Christeen 1920
+Christel 1970
+Christen 1980
+Christene 1930
+Easter 1910
+Esteban 1990
+Estefania 1990
+Estel 1920
+Estela 1930
+Estell 1910
+Estella 1910
+Estelle 1910
+Ester 1910
+Estevan 1990
+Foster 1910
+Hester 1910
+Justen 1980
+Kiersten 1990
+Kirsten 1990
+Kristen 1980
+Lester 1910
+Stefan 1990
+Stefani 1980
+Stefanie 1980
+Stella 1910
+Stephan 1950
+Stephani 1980
+Stephania 1910
+Stephanie 1980
+Stephany 1990
+Stephen 1950
+Stephenie 1970
+Stephon 1990
+Sterling 1920
+Stetson 1990
+Stevan 1950
+Steve 1960
+Steven 1960
+Stevie 1950
+Stewart 1950
+Sylvester 1910
+Tristen 1990
+Vester 1910
+Webster 1910
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: banana
+
+banana does not appear in any decade.
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: ban
+
+There are 2 matches for ban.
+
+The matches with their highest ranking decade are:
+Esteban 1990
+Urban 1920
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 1
+Enter a partial name: tI
+
+There are 111 matches for tI.
+
+The matches with their highest ranking decade are:
+Catina 1970
+Celestine 1910
+Celestino 1920
+Chastity 1970
+Christi 1970
+Christian 1990
+Christiana 1990
+Christie 1970
+Christin 1980
+Christina 1970
+Christine 1970
+Clementine 1910
+Constantin 1920
+Cristian 1990
+Cristin 1980
+Cristina 1980
+Curtis 1960
+Curtiss 1940
+Destin 1990
+Destinee 1990
+Destiney 1990
+Destini 1990
+Destiny 1990
+Dottie 1940
+Dustin 1980
+Earnestine 1930
+Ernestina 1930
+Ernestine 1920
+Fatima 1990
+Faustino 1930
+Florentino 1930
+Gertie 1910
+Hattie 1910
+Hettie 1910
+Ignatius 1910
+Jettie 1920
+Justice 1990
+Justin 1980
+Justina 1990
+Justine 1990
+Kati 1980
+Katie 1980
+Katina 1970
+Kattie 1920
+Kirstie 1990
+Kirstin 1990
+Kristi 1970
+Kristian 1990
+Kristie 1970
+Kristin 1980
+Kristina 1980
+Kristine 1970
+Kurtis 1980
+Latisha 1980
+Leticia 1970
+Letitia 1970
+Lettie 1910
+Lottie 1910
+Lucretia 1940
+Martin 1960
+Martina 1960
+Matilda 1910
+Matilde 1930
+Mattie 1910
+Misti 1970
+Mittie 1910
+Mortimer 1910
+Myrtice 1910
+Myrtie 1910
+Myrtis 1920
+Natividad 1920
+Nettie 1910
+Otilia 1910
+Otis 1910
+Ottis 1910
+Patti 1950
+Pattie 1930
+Portia 1940
+Primitivo 1930
+Quentin 1990
+Quintin 1990
+Santiago 1920
+Santina 1910
+Scottie 1970
+Sebastian 1990
+Tatiana 1990
+Tia 1990
+Tiana 1990
+Tianna 1990
+Tiara 1990
+Tiera 1990
+Tierra 1990
+Tiffani 1980
+Tiffanie 1980
+Tiffany 1980
+Tillie 1910
+Tillman 1910
+Tim 1960
+Timmie 1960
+Timmothy 1960
+Timmy 1960
+Timothy 1960
+Tina 1970
+Tisha 1970
+Tito 1970
+Titus 1970
+Tristian 1990
+Tristin 1990
+Valentin 1930
+Valentina 1910
+Valentine 1910
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 2
+Enter a name: tIm
+
+Tim
+1910: 953
+1920: 873
+1930: 627
+1940: 224
+1950: 143
+1960: 92
+1970: 352
+1980: 835
+1990: 0
+
+
+Options:
+Enter 1 to search for names.
+Enter 2 to display data for one name.
+Enter 3 to display all names that appear in only one decade.
+Enter 4 to display all names that appear in all decades.
+Enter 5 to display all names that are more popular in every decade.
+Enter 6 to display all names that are less popular in every decade.
+Enter 7 to <replace with description of your method / search>.
+Enter 8 to quit.
+
+Enter choice: 8
+
+
+Goodbye.
