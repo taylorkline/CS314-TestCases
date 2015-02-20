@@ -2,12 +2,13 @@
  *@author Joshua Guenther,  Efthimios Timmy Gianitsos
  * Removed description of option 7 and did not run it!
  * Tests are run in the following order (excluded quotation marks):
- * Menu choice 1, input: "steven"
- * Menu choice 2, input: "ste"
+ * Menu choice 2, input: "steven"
+ * Menu choice 1, input: "ste"
  * Menu choice 2, input: "banana"
  * Menu choice 1, input: "ban"
  * Menu choice 1, input: "tI"
  * Menu choice 2, input: "tIm"
+ * Menu choice 8
  */
 
 Options:
