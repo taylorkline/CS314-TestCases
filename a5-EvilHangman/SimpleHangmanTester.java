@@ -1,3 +1,8 @@
+/**
+ * A tester for EvilHangman
+ * @author Taylor Kline
+ */
+
 import java.util.*;
 public class SimpleHangmanTester {
    private static final String FAILED_TEST = "******FAILED******";
