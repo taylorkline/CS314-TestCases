@@ -294,7 +294,7 @@ public class LinkedListTester {
       stringList2.removeRange(0, 0);
       testNum = 30;
       testingWhat = "removeRange(start, stop)";
-      expectedString = "[w, z, M]";
+      expectedString = "[Q, w, z, M]";
       actualString = stringList2.toString();
       testResults = (expectedString.equals(actualString)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
