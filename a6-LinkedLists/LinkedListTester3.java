@@ -6,7 +6,7 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class LinkedListTester {
+public class LinkedListTester3 {
    private static final String FAILED_TEST = "******FAILED******";
    private static final String PASSED_TEST = "passed";
    private static final String DIVIDER = " | ";
