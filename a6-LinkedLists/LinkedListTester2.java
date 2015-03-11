@@ -230,7 +230,8 @@ public class LinkedListTester2 {
                 llist.getSubList(1, 0);
             }
         }, testName + 7);
-
+        /*
+         * Following test is invalid as of @306 on piazza)
         assertException(new Executable() {
             @Override
             public void run() {
@@ -238,6 +239,7 @@ public class LinkedListTester2 {
                 empty.getSubList(0, 0);
             }
         }, testName + 8);
+        */
     }
 
     private static void iteratorTests() {
