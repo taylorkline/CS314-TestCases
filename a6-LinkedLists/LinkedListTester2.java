@@ -1,6 +1,6 @@
 /**
  * A tester for a6-LinkedList
- * @author unknown -> from anonymous author on piazza (reference: @228)
+ * @author unknown -> from anonymous author on piazza (reference: @288)
  */
 
 import java.util.Iterator;
@@ -8,19 +8,19 @@ import java.util.Iterator;
 public class LinkedListTester2 {
 
     public static void main(String[] args) {
-        //insertTests();
-        //addTests();
-        //setTests();
-        //getTests();
+    	insertTests();
+    	addTests();
+    	setTests();
+    	getTests();
         removeTests();
-        //iteratorTests();
-        //sublistsTest();
-        //sizeTest();
-//        indexOfTest();
-//        makeEmptyTest();
-//        removeRangeTest();
-//        firstAndLastTest();
-//        equalsTest();
+        iteratorTests();
+        sublistsTest();
+        sizeTest();
+        indexOfTest();
+        makeEmptyTest();
+        removeRangeTest();
+        firstAndLastTest();
+        equalsTest();
     }
 
     private static interface Executable { void run(); }
