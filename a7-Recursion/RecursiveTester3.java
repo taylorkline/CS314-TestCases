@@ -9,7 +9,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class RecursiveTester {
+public class RecursiveTester3{
    private static final String FAILED_TEST = "******FAILED******";
    private static final String PASSED_TEST = "passed";
    private static final String DIVIDER = " | ";
@@ -28,8 +28,8 @@ public class RecursiveTester {
       int actualInt;
       String actualString;
       String expectedString;
-      ArrayList<String> expectedStrings = new ArrayList<>();
-      ArrayList<String> actualStrings = new ArrayList<>();
+      ArrayList<String> expectedStrings = new ArrayList<String>();
+      ArrayList<String> actualStrings = new ArrayList<String>();
       Recursive r = new Recursive();
       int[][] board;
       int[][] result;
