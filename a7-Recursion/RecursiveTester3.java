@@ -1,9 +1,6 @@
 /**
  * A tester for a7-Recursive
  * @author Taylor Kline
- * UTEID: tck445
- * email: Taylor.Kline@streamingfreebies.com
- * Grader: Stas
  */
 
 import java.util.ArrayList;

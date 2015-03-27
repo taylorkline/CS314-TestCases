@@ -1,25 +1,8 @@
-/*
-*
-
----------------------------------------------
-**************RECURSIVE TESTS****************
-----------------------------------------------
----------------PRESENTED BY -----------------
-*GILBERT 'HALF MAN/ HALF MACHINE' MALDONADO*
------------------- AND ----------------------
-BONGANI "THE MAN, THE MYTH, THE LEGEND" MBIGI
----------------------------------------------
-      
-      Hopefully MIke Scott Approved
-
-
-
-
-
-**********PRECED AT YOU ON RISK**************
-*
-*/
-
+/**
+ * A tester for a7 - Recursive
+ * @author GILBERT MALDONADO
+ * @author BONGANI MBIGI
+ */
 
 import java.util.ArrayList;
 import java.util.Arrays;
