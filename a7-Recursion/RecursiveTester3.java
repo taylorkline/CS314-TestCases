@@ -6,7 +6,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class RecursiveTester3{
+public class RecursiveTester3 {
    private static final String FAILED_TEST = "******FAILED******";
    private static final String PASSED_TEST = "passed";
    private static final String DIVIDER = " | ";
@@ -25,8 +25,8 @@ public class RecursiveTester3{
       int actualInt;
       String actualString;
       String expectedString;
-      ArrayList<String> expectedStrings = new ArrayList<String>();
-      ArrayList<String> actualStrings = new ArrayList<String>();
+      ArrayList<String> expectedStringArray = new ArrayList<>();
+      ArrayList<String> actualStringArray = new ArrayList<>();
       Recursive r = new Recursive();
       int[][] board;
       int[][] result;
@@ -165,63 +165,63 @@ public class RecursiveTester3{
 
       testNum = 19;
       testingWhat = "problem 4 - mnemonics based on '6'";
-      expectedStrings.add("M");
-      expectedStrings.add("N");
-      expectedStrings.add("O");
-      Collections.sort(expectedStrings);
-      actualStrings = r.listMnemonics("6");
-      Collections.sort(actualStrings);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      expectedStringArray.add("M");
+      expectedStringArray.add("N");
+      expectedStringArray.add("O");
+      Collections.sort(expectedStringArray);
+      actualStringArray = r.listMnemonics("6");
+      Collections.sort(actualStringArray);
+      testResults = (actualStringArray.equals(expectedStringArray)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
 
       testNum = 20;
       testingWhat = "problem 4 - mnemonics based on '601'";
-      expectedStrings.clear();
-      expectedStrings.add("M01");
-      expectedStrings.add("N01");
-      expectedStrings.add("O01");
-      Collections.sort(expectedStrings);
-      actualStrings = r.listMnemonics("601");
-      Collections.sort(actualStrings);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      expectedStringArray.clear();
+      expectedStringArray.add("M01");
+      expectedStringArray.add("N01");
+      expectedStringArray.add("O01");
+      Collections.sort(expectedStringArray);
+      actualStringArray = r.listMnemonics("601");
+      Collections.sort(actualStringArray);
+      testResults = (actualStringArray.equals(expectedStringArray)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
 
       testNum = 21;
       testingWhat = "problem 4 - mnemonics based on '6019'";
-      expectedStrings.clear();
-      expectedStrings.add("M01W");
-      expectedStrings.add("M01X");
-      expectedStrings.add("M01Y");
-      expectedStrings.add("M01Z");
-      expectedStrings.add("N01W");
-      expectedStrings.add("N01X");
-      expectedStrings.add("N01Y");
-      expectedStrings.add("N01Z");
-      expectedStrings.add("O01W");
-      expectedStrings.add("O01X");
-      expectedStrings.add("O01Y");
-      expectedStrings.add("O01Z");
-      Collections.sort(expectedStrings);
-      actualStrings = r.listMnemonics("6019");
-      Collections.sort(actualStrings);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      expectedStringArray.clear();
+      expectedStringArray.add("M01W");
+      expectedStringArray.add("M01X");
+      expectedStringArray.add("M01Y");
+      expectedStringArray.add("M01Z");
+      expectedStringArray.add("N01W");
+      expectedStringArray.add("N01X");
+      expectedStringArray.add("N01Y");
+      expectedStringArray.add("N01Z");
+      expectedStringArray.add("O01W");
+      expectedStringArray.add("O01X");
+      expectedStringArray.add("O01Y");
+      expectedStringArray.add("O01Z");
+      Collections.sort(expectedStringArray);
+      actualStringArray = r.listMnemonics("6019");
+      Collections.sort(actualStringArray);
+      testResults = (actualStringArray.equals(expectedStringArray)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
 
       testNum = 22;
       testingWhat = "problem 4 - mnemonics based on ''";
-      expectedStrings.clear();
-      expectedStrings.add("");
-      actualStrings = r.listMnemonics("");
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      expectedStringArray.clear();
+      expectedStringArray.add("");
+      actualStringArray = r.listMnemonics("");
+      testResults = (actualStringArray.equals(expectedStringArray)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
 
       testNum = 23;
       testingWhat = "problem 7 - sudoku solver";
       board = stringToBoard("000000000000030048015002900001000000050470060000000802390067500070003620560000004");
       result = r.getSudokoSolution(board);
-      expectedString = "783694215926135748415782936831926457259478163647351892395267581178543629562819374";
+      expectedString = "783694215926135748415782936831926457259478163647351892394267581178543629562819374";
       actualString = boardToString(result);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      testResults = (actualString.equals(expectedString)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
       
       testNum = 24;
@@ -230,17 +230,26 @@ public class RecursiveTester3{
       result = r.getSudokoSolution(board);
       expectedString = "783694215926135748415782936831926457259478163647351892395267581178543629562819374";
       actualString = boardToString(result);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      testResults = (actualString.equals(expectedString)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
       
       testNum = 25;
       testingWhat = "problem 7 - sudoku solver";
       board = stringToBoard("080206000000400300300001056500000901000900060000002000890070000060000730000000020");
       result = r.getSudokoSolution(board);
-      expectedString = "985236147216457395374891256528643971137985462679712583892374615461528739753168824";
+      expectedString = "985236147216457398374891256528643971137985462649712583892374615461528739753169824";
       actualString = boardToString(result);
-      testResults = (actualStrings.equals(expectedStrings)) ? PASSED_TEST : FAILED_TEST;
+      testResults = (actualString.equals(expectedString)) ? PASSED_TEST : FAILED_TEST;
       System.out.println(formattedTestResults(testNum, testingWhat, testResults));
+
+      /*
+      System.out.println("board: ");
+      printBoard(board);
+      System.out.println("solved board from Recursive: ");
+      printBoard(stringToBoard(actualString));
+      System.out.println("expected solution: ");
+      printBoard(stringToBoard(expectedString));
+      */
 
       testNum = 26;
       testingWhat = "problem 8 - canFlowOffMap left side";
@@ -355,5 +364,21 @@ public class RecursiveTester3{
 
    private static String formattedTestResults(int testNum, String testingWhat, String testResults) {
       return String.format(TEST_FORMATTING, "Test ", testNum, DIVIDER, testingWhat, DIVIDER, testResults);
+   }
+
+   private static void printBoard(int[][] board) {
+      for (int r = 0; r < board.length; r++) {
+         System.out.print("r" + r + ") ");
+         for (int c = 0; c < board[r].length; c++) {
+            System.out.print(board[r][c]);
+            System.out.print("|");
+         }
+         System.out.println();
+         System.out.print("    ");
+         for (int c = 0; c < (board[r].length * 2); c++) {
+            System.out.print("-");
+         }
+         System.out.println();
+      }
    }
 }
