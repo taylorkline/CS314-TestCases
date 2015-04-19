@@ -730,30 +730,34 @@ public class BSTTester1 {
   result = bs.numNodesAtDepth(15) == 0;
   printTester("numNodesAtDepth", 4, result, "Depth that is greater than the trees actual depth");
 
-  /*
-  //Work with worst case binary search tree (like LinkedList) -- stress test
-  //Recursive numNodesAtDepth solution will result in stack overflow as the height increases
-  System.out.println("     Warning: Test 5 might take some time");
-  BinarySearchTree<Integer> bst = new BinarySearchTree<Integer>();
-  int height = 128000;
-  for(int i = 0; i <= height; i++){
-   bst.iterativeAdd(i); //recursive add also results in stack overflow 
-  }
-  int depth = 0;
-  result = true;
-  while(depth < height-1 && result){
-   int d = bst.numNodesAtDepth(depth);
-   result = d == 1;
-   if(!result){
-    System.out.println("\tFailing Test 5 at depth "+depth+": only found "+d+" nodes");
-   }
-   depth += 100;
-  }
-  printTester("numNodesAtDepth", 5, result, "large linear like tree has 1 node at every depth");
-   */
+ 		
+	result = bs.numNodesAtDepth(-5) == 0;
+	printTester("numNodesAtDepth", 5, result, "Depth is negative");
+		
+	/*
+	//Work with worst case binary search tree (like LinkedList) -- stress test
+	//Recursive numNodesAtDepth solution will result in stack overflow as the height increases
+	System.out.println("     Warning: Test 6 might take some time");
+	BinarySearchTree<Integer> bst = new BinarySearchTree<Integer>();
+	int height = 128000;
+	for(int i = 0; i <= height; i++){
+		bst.iterativeAdd(i); //recursive add also results in stack overflow 
+	}
+	int depth = 0;
+	result = true;
+	while(depth < height-1 && result){
+		int d = bst.numNodesAtDepth(depth);
+		result = d == 1;
+		if(!result){
+			System.out.println("\tFailing Test 6 at depth "+depth+": only found "+d+" nodes");
+		}
+		depth += 100;
+	}
+	printTester("numNodesAtDepth", 6, result, "large linear like tree has 1 node at every depth");
+	*/
 
 
-  System.out.println();
+		System.out.println();
  }
 
  /* Test the remove method
